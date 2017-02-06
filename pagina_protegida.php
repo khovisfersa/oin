@@ -7,7 +7,7 @@
 
 		if ($login == 'user' AND $senha == 'senhateste')
 		{
-			echo "bem vindo ".$user."! Seu cargo é algum. só não sei qual. <br>"
+			echo "bem vindo ".$user."! Seu cargo é algum. só não sei qual. <br>";
 		}
 		else
 		{
